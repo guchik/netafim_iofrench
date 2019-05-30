@@ -925,7 +925,7 @@
             }
           },
           "_name": "gallery2",
-          "_customHTML": "<section class=\"mbr-gallery mbr-slider-carousel\" group=\"Sliders & Gallery\" plugins=\"Masonry,BootstrapCarouselSwipe,Gallery,VimeoPlayer,SliderVideo\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"checkbox\" title=\"Full Width\" name=\"fullWidth\" checked>\n        <input type=\"range\" title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"9\" step=\"1\" value=\"6\" inline>\n        <input type=\"range\" title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"9\" step=\"1\" value=\"6\" inline>\n        <input type=\"color\" title=\"Overlay Color\" name=\"overlayColor\" value=\"#554346\">\n        <input type=\"checkbox\" title=\"Gradient Overlay\" name=\"gradOverlay\" checked>\n        <input type=\"color\" title=\"Overlay Color 2\" name=\"overlayColor2\" value=\"#45505b\" condition=\"gradOverlay\">\n        <input type=\"range\" title=\"Overlay Opacity\" name=\"overlayOpacity\" min=\"0\" max=\"1\" step=\"0.1\" value=\"0.7\" inline>\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n\n        <input type=\"gallery\" title=\"Gallery\" name=\"gallery\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div mbr-class=\"{'container': !fullWidth}\">\n        <div mbr-gallery=\"gallery\" mbr-gallery-spacing=\"4\" mbr-gallery-show-filter mbr-gallery-show-text></div>\n    </div>\n\n</section>",
+          "_customHTML": "<section class=\"mbr-gallery mbr-slider-carousel\" group=\"Sliders & Gallery\" plugins=\"Masonry,BootstrapCarouselSwipe,Gallery,VimeoPlayer,SliderVideo\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"checkbox\" title=\"Full Width\" name=\"fullWidth\" checked>\n        <input type=\"range\" title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"9\" step=\"1\" value=\"6\" inline>\n        <input type=\"range\" title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"9\" step=\"1\" value=\"6\" inline>\n        <input type=\"color\" title=\"Overlay Color\" name=\"overlayColor\" value=\"#767676\">\n        <input type=\"checkbox\" title=\"Gradient Overlay\" name=\"gradOverlay\">\n        <input type=\"color\" title=\"Overlay Color 2\" name=\"overlayColor2\" value=\"#b1a374\" condition=\"gradOverlay\">\n        <input type=\"range\" title=\"Overlay Opacity\" name=\"overlayOpacity\" min=\"0\" max=\"1\" step=\"0.1\" value=\"0.4\" inline>\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n\n        <input type=\"gallery\" title=\"Gallery\" name=\"gallery\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div mbr-class=\"{'container': !fullWidth}\">\n        <div mbr-gallery=\"gallery\" mbr-gallery-spacing=\"3\" mbr-gallery-show-text></div>\n    </div>\n\n</section>",
           "_cid": "rrWW5Ilp2L",
           "_anchor": "gallery2-4",
           "_protectedParams": [
@@ -961,8 +961,8 @@
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
                 "image": "@PROJECT_PATH@/assets/images/4-kt100-4-1206x1206.png",
                 "thumb": "@PROJECT_PATH@/assets/images/4-kt100-4-1206x1206-800x800.png",
-                "alt": "",
-                "title": "",
+                "alt": "couronne de torah",
+                "title": "couronne de torah",
                 "customStyle1": "display-7",
                 "caption": "COURONNE DE TORAH",
                 "active": false
@@ -990,7 +990,7 @@
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "Tapez la légende ici",
+                "caption": "<b>VERRE DE KIDDOUSH</b>",
                 "active": false
               },
               {
@@ -1003,7 +1003,7 @@
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "Tapez la légende ici",
+                "caption": "<a href=\"http://www.netafim55.com/product-category/torah-accesories/th/\" target=\"_blank\">YAD DE TORAH</a>",
                 "active": false
               },
               {
@@ -1013,10 +1013,10 @@
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
                 "image": "@PROJECT_PATH@/assets/images/8-sc100-1-1050x1050.png",
                 "thumb": "@PROJECT_PATH@/assets/images/8-sc100-1-1050x1050-800x800.png",
-                "alt": "",
-                "title": "",
+                "alt": "hannoukia",
+                "title": "hannoukia",
                 "customStyle1": "display-7",
-                "caption": "Tapez la légende ici",
+                "caption": "<b>BOUGEOIRS SHABBAT</b>",
                 "active": false
               },
               {
@@ -1026,10 +1026,10 @@
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
                 "image": "@PROJECT_PATH@/assets/images/9-pp101-1-1306x1306.png",
                 "thumb": "@PROJECT_PATH@/assets/images/9-pp101-1-1306x1306-800x800.png",
-                "alt": "",
-                "title": "",
+                "alt": "boite de matzot",
+                "title": "boite de matzot",
                 "customStyle1": "display-7",
-                "caption": "Tapez la légende ici",
+                "caption": "<a href=\"http://www.netafim55.com/product-category/silverware/pp/\" target=\"_blank\">BOITE DE MATZOT</a>",
                 "active": false
               },
               {
@@ -1042,7 +1042,7 @@
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "Tapez la légende ici",
+                "caption": "<a href=\"http://www.netafim55.com/product-category/holidays/hanukkah/\" target=\"_blank\">HANNOUKIA</a>",
                 "active": false
               },
               {
@@ -1055,7 +1055,7 @@
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "Tapez la légende ici",
+                "caption": "<a href=\"http://www.netafim55.com/product-category/silverware/tf/\" target=\"_blank\">BOITIERS TEFILIN</a>",
                 "active": false
               },
               {
@@ -1081,7 +1081,7 @@
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "Tapez la légende ici",
+                "caption": "<b>ALLUME BOUGIES</b>",
                 "active": false
               },
               {
@@ -1094,7 +1094,7 @@
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "Tapez la légende ici",
+                "caption": "<b>BOUGEOIR HAVADALA</b>",
                 "active": false
               }
             ]
